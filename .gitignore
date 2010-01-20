@@ -1,0 +1,9 @@
+# Do not commit Mac specific files
+.DS_Store
+# Intellij files
+.idea/*
+*.ipr
+*.iws
+*.iml
+# Build generated files
+out/*
